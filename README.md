@@ -4,7 +4,7 @@ An all-in-one organizational tool I'm building in my free time. This app is desi
 
 I also want the app to look at least half-decent to incentivise me to actually use it.
 
-Keep in mind that the below is constantly being worked on and currently none of it is fleshed out. All current progress is being tracked in the TODO.md file.
+Keep in mind that the below is constantly being worked on and currently none of it is fleshed out. All current progress is being tracked in the TODO.md file.   
 
 ### Features:
 
